@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WordCounterV1/1.0.0": {
+        "runtime": {
+          "WordCounterV1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WordCounterV1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
